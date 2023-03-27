@@ -5,3 +5,13 @@ html {
 *, ::after ::before {
     box-sizing: inherit;
 }
+
+.body {
+    background-color: rgb(241, 233, 233);
+    font-family: 'Lato', sans-serif;
+    word-break: break-word;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+    display: grid;
+}
