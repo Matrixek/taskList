@@ -13,7 +13,7 @@ https://matrixek.github.io/taskList/
 
 ## About my page
 ---
-TaskListadd some tasks to the list and mark them as done. Task may be also be deleted completely.
+TaskList add some tasks to the list and mark them as done. Task may be also be deleted completely.
 
 ## Techniques
 ---
