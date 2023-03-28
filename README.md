@@ -8,11 +8,12 @@ Welcome to my taskList making during Frontend Developer course on YouCode
 
 https://matrixek.github.io/taskList/
 
-[![zrzut-ekranu-1.png](https://i.postimg.cc/prG7Wky3/zrzut-ekranu-1.png)](https://postimg.cc/vxnXXrrv)
+[page.webm](https://user-images.githubusercontent.com/123593832/228050543-e4c018a1-f656-4deb-bd5f-cd676d2e4ba9.webm)
+
 
 ## About my page
 ---
-TaskListadd some tasks to the list and mark them as done. Task may be also be deleted completely.
+TaskList add some tasks to the list and mark them as done. Task may be also be deleted completely.
 
 ## Techniques
 ---
